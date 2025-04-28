@@ -2,7 +2,7 @@
 
 📝 Description
 This project consists of a complete data analysis process using Python, including data exploration, cleaning, visualization, and insights generation.  
-The goal is to extract valuable information from datasets and present findings clearly and effectively.
+The goal is to extract valuable information from datasets.
 
 🛠️ Tools and Technologies
 - Python
